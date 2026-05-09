@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "index.html"
+		},
+		{
+			"path": "Video"
+		},
+		{
+			"path": "imagenes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "index.html",
+		"liveServer.settings.port": 5501
+	}
+}
